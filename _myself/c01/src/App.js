@@ -19,7 +19,7 @@ class App extends Component {
       {
         name: 'NodeJS',
         time: '35h',
-        free: true
+        free: true 
       }
     ];
 
